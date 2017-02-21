@@ -4,7 +4,7 @@ from nltk.corpus import stopwords
 
 
 
-def read(event):
+def read():
     fp = open(filename,"r")
     f = fp.read()
     t2 = nltk.word_tokenize(f)
@@ -23,6 +23,8 @@ def read(event):
         if word not in list2 and word not in stop:
             list2.append(word)
             op.write(word+"\n")
+            print word
     op.close()
     fp.close()
 filename = "a.txt"
+read()
