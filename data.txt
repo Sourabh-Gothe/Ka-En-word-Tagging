@@ -1,10 +1,10 @@
 ﻿yav|1 contextali|0 mathadona|1
  nange|1 hosa|1  clothes|0 buy|0 madbeku|1
- yen|1 aytho|1 nin|1 battege|1 ?
+ yen|1 aytho|1 nin|1 battege|1 
  nan|1 hatra|1 jassti|1 cloths|0 illa|1 ella|1 old|0 agide|1 mathe|1 fade agide|1
- Dhoni|0 yenak|1 captainship|0 inda|0 step|0 down|0 aada|1?
+ Dhoni|0 yenak|1 captainship|0 inda|0 step|0 down|0 aada|1
  ella|1 strategy|0
- sathudu|0 hp|0 laptop|0 yenak|1 yavaglu|1 hang aguthe|1 ?
+ sathudu|0 hp|0 laptop|0 yenak|1 yavaglu|1 hang aguthe|1 
  yake|1 kannadanu|1 baralva|1 sathahuge 
  its|0 strange|0 that|0 sathuge kannada|1 baralaa|1
  yavaglu |1 english|0 english|0 antha|1 irthane|1 
@@ -15,14 +15,14 @@
  horge|1 sheke|1 iruva|1 kararana|1 temperature|0 humidity|0 jassti|1 idhe|1
  ed|0 sheeran|0 shape|0 of|0 you|0 song|0 hear|0 maduvudu|1 nanage|1 too|0 much|0 ista|1
  operting|0 system|0 nana|1 favourite|0  subject|0 
- eega|1 tamilnadu|0 Chief|0 Minister|0 change|0 aadra|1?
- yaro|1 pannerselvam|0 ilidre|0 paliniswamy|0 why|0 do|0 they|0 even|0 need|0  one|0?
+ eega|1 tamilnadu|0 Chief|0 Minister|0 change|0 aadra|1
+ yaro|1 pannerselvam|0 ilidre|0 paliniswamy|0 why|0 do|0 they|0 even|0 need|0  one|0
  action|0 movie|0 tumba|1 ista|1 
- breakfastge|0 yen|1 tinde|1 ?
+ breakfastge|0 yen|1 tinde|1 
  bread|0 egg|0 corn|0 ella|1 tumba|1 costly|0 but|0 diet|0 gagi|1  tinthaidhini|1
  Gym|0 aali|1 dumbells|0 iruthe|1 
- profile|0 photo|0 heege|1 upload|0 moadodu|1 can|0 someone|0 help|0 me|0?
- whatsapp|0 enake|1 snapchat|0 du|1 features|0 na|1 copy|0 madthaidhare|1?
+ profile|0 photo|0 heege|1 upload|0 moadodu|1 can|0 someone|0 help|0 me|0
+ whatsapp|0 enake|1 snapchat|0 du|1 features|0 na|1 copy|0 madthaidhare|1
  Hebuli|0 yalli|1 sudeep|0 avathara|1 dashing|0 mathe|1 smashing|0 idhe|1 
  movie|0 long|0 ide|1 but|0 very|0 interesting|0 aagi|1 ide|1
  aamla|1 janakake|1 oxygen|0 yandu|1 yeeke|1 kareyuthare|1 
