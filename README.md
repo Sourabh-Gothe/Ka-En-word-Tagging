@@ -1,2 +1,2 @@
 # Ka-En-word-Tagging
-Basic intention of this project is to tag the words with apprpriate language in a codeswithed text.
+Basic intention of this project is to tag the words with appropriate language in a codeswitched text.
